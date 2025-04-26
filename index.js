@@ -3,8 +3,8 @@ const { Vec3 } = require('vec3');
 
 // Conectando-se ao servidor Bedrock
 const client = bedrock.createClient({
-  host: 'IP_DO_SERVIDOR',  // Endereço do servidor
-  port: 19132,             // Porta padrão do Minecraft Bedrock
+  host: 'mi-7ad2cbcf.axenthost.me',  // Endereço do servidor
+  port: 40212,             // Porta padrão do Minecraft Bedrock
   username: 'GugaBot',     // Nome do bot
   version: '1.21',         // Versão do servidor (ajuste conforme necessário)
 });
